@@ -8,6 +8,8 @@ Password: farmpassword
 
 # License
 
+MediaWiki Farm Config is licensed using the same license as MediaWiki itself:
+
 Copyright (C) 2017 by Innovation Garage AS
 
 This program is free software; you can redistribute it and/or modify
